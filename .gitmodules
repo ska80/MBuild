@@ -33,7 +33,7 @@
 	url = https://github.com/froggey/slime
 [submodule "Mezzano"]
 	path = Mezzano
-	url = https://github.com/froggey/Mezzano
+	url = git@github.com:ska80/Mezzano.git
 [submodule "home/cl-wav"]
 	path = home/cl-wav
 	url = https://github.com/RobBlackwell/cl-wav.git
